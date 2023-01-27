@@ -26,7 +26,7 @@ else if "`c(username)'" == "jason" {
 	global dir "/Users/jason/Dropbox/Research"
 }
     
-cd "$dir/which multiples matter descriptive"            
+cd "$dir/which multiples matter descriptive copy"            
 global datadir "Data"                       
 global tabdir "Tables" 	
 global originaldata "Data/Original_Data"
